@@ -3,10 +3,10 @@
   "title": "rowClick",
   "description": "Expands the clickable area to an entire table row if that row contains a link.",
   "keywords": [
-    "ui",
-    "effect"
+    "event",
+    "input"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Travis Horn",
     "url": "http://travishorn.com"
