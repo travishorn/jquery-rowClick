@@ -1,0 +1,27 @@
+{
+  "name": "rowClick",
+  "title": "rowClick",
+  "description": "Expands the clickable area to an entire table row if that row contains a link.",
+  "keywords": [
+    "ui",
+    "effect"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Travis Horn",
+    "url": "http://travishorn.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt"
+    }
+  ],
+  "bugs": "https://github.com/travishorn/jquery-rowClick/issues",
+  "homepage": "http://travishorn.github.com/jquery-rowClick",
+  "docs": "http://travishorn.github.com/jquery-rowClick",
+  "download": "https://github.com/travishorn/jquery-rowClick/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.6.4"
+  }
+}
