@@ -1,0 +1,22 @@
+{
+  "name": "jquery-rowclick",
+  "version": "1.0.1",
+  "description": "Expands the clickable area to an entire table row if that row contains a link.",
+  "main": "jquery.rowClick.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/travishorn/jquery-rowClick.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "event",
+    "input"
+  ],
+  "author": {
+    "name": "Travis Horn",
+    "url": "http://travishorn.com"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/travishorn/jquery-/issues"
+}
